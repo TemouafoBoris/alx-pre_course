@@ -1,1 +1,1 @@
-git add --all
+echo 'touch up_to_date' > up_to_date
